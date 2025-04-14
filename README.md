@@ -1,2 +1,2 @@
 
-A weather app built with recatjs and api for codtech internship
+A weather app built with reactjs and api for codtech internship
